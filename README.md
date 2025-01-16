@@ -2,6 +2,12 @@
 
 **Never miss out on your dream job opportunity — all in one place.**
 
+
+
+https://github.com/user-attachments/assets/78ba47ca-469c-463b-aada-cb16ff32d9dc
+
+
+
 Job Finder automatically monitors job boards and company career pages, then sends Slack notifications when it detects new relevant positions. This tool revolutionizes your job search by:
 
 - **Saving hours** normally spent manually checking multiple job sites
